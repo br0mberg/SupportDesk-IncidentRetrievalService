@@ -6,6 +6,6 @@
 ## Цель
 Исследовать ключевые решения для RAG (чанкинг, эмбеддинги, re-ranking, хранение векторов), собрать наблюдаемый прототип для экспериментов.
 
-Подробности и контекст: [статья на Хабре](https://habr.com/p/924100/) и [Telegram](https://t.me/devbrombin)
+Подробности и контекст: [статья на Хабре](https://habr.com/p/924100/) и [Telegram-канал](https://t.me/devbrombin)
 
 ![Image alt](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService/raw/main/src/main/resources/f806613fa8bbe4c417479c82d7746b0a.png)
