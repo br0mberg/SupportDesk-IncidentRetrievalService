@@ -1,0 +1,42 @@
+# Сборочные каталоги Maven и Gradle
+target/
+build/
+
+
+# Бинарные файлы
+*.jar
+*.war
+*.ear
+
+# Файлы конфигурации IDE
+*.iml
+.idea/
+*.vscode/
+*.classpath
+*.project
+*.settings/
+.DS_Store
+
+# Логи
+logs/
+*.log
+
+# Настройки ОС
+Thumbs.db
+.DS_Store
+
+# Файлы с кэшем
+*.swp
+*.swo
+*.bak
+
+# Библиотеки, скачиваемые Maven или Gradle
+.mvn/
+.gradle/
+
+README.md
+mvnw.cmd
+mvnw
+.mvn
+.mvn/wapper/maven-wrapper.properties
+/docker-compose/qdrant_data
