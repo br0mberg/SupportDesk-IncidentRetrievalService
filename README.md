@@ -1,5 +1,3 @@
-⚠️ ДИСКЛЕЙМЕР: это прототип, написанный на скорую руку; предназначен для демонстрации подхода.
-
 # RAG + Векторные БД на Java и Spring AI
 Демонстрационный сервис: **Retrieval-Augmented Generation** на Java 21 / Spring Boot 3 с интеграцией **Spring AI**, векторного хранилища (Qdrant) и open ai llm model. 
 
